@@ -140,8 +140,7 @@ p {
 	margin-bottom: 40px;
 }
 .cta-btn {
-	margin: 20px 30px;
-	
+	margin: 0 30px;
 }
 
 /* Footer */
@@ -154,6 +153,9 @@ p {
 }
 .footer-icon {
 	margin: 0 20px;
+	color: #2a2b2a;
+}
+.footer-icon:hover , .footer-icon:focus {
 	color: black;
 }
 .footer-cp {
