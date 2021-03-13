@@ -141,7 +141,7 @@ p {
 }
 .cta-btn {
 	margin: 20px 30px;
-	display: inline-block;
+	
 }
 
 /* Footer */
@@ -178,6 +178,9 @@ p {
 		padding: 10px;
 		font-size: 25px;
 
+	}
+	.cta-btn {
+		margin: 20px auto;
 	}
 
 }
